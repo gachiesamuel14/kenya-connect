@@ -1,2 +1,7 @@
-# kenya-connect
-Location-based dating and matchmaking for people in Kenya. Profiles, nearby matches, swipe, chat UI, county filters.
+# Kenya Connect
+
+Location-based dating frontend for people in Kenya. Built as a static site so it deploys cleanly on **Netlify** from this **GitHub** repo.
+
+https://github.com/gachiesamuel14/kenya-connect
+
+Demo login: amina@demo.ke / demo123
